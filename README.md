@@ -79,7 +79,7 @@ npm install
 ```bash
 npm run dev
 ```
-## Decisões do Projeto Frontend
+## Decisões de Projeto Frontend
 
 - Utilização do React.js como biblioteca JavaScript para a construção da interface do usuário.
 - Utilização de TypeScript para adicionar tipagem estática ao JavaScript.
